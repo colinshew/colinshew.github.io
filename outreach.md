@@ -2,16 +2,10 @@
 layout: page
 title: Science outreach
 subtitle: Bringing science outside the lab!
+cover-img: ["assets/img/avatar-icon.png", "assets/img/hello_world.jpeg"]
 ---
 
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
-table {
-    border-collapse: collapse;
-}
-</style>")
-
-Testing CSS style...
+Testing cover images...
 
 Test HTML table:
 
