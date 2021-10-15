@@ -4,10 +4,10 @@ title: Outreach
 subtitle: Bringing science outside the lab!
 ---
 
+<html>
+
 <style>
-td, th {
-   border: none!important;
-}
+table {border: none;}
 </style>
 
 Testing style...
@@ -27,3 +27,5 @@ Test HTML table:
   </td>
   </tr>
 </table>
+
+</html>
