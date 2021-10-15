@@ -4,6 +4,10 @@ title: Outreach
 subtitle: Bringing science outside the lab!
 ---
 
+What good is science if only scientists know about it? I believe in engaging the general public in scientific conversation and increasing the visibility of science careers, especially in disadvantaged communities. I have organized several hands-on workshops at elementary and high schools across the Sacramento area to discuss DNA, heredity, biotechnology, bioethics, and STEM careers. Check out the [Dennis Lab blog](https://www.dennislab.org/outreach) for posts describing some of these events!
+
+Any educators interested in bringing these topics to their classrooms are welcome to email me for more information (envelope icon at the bottom of the page).
+
 <style>
 td, th {
    border: none!important;
@@ -14,31 +18,20 @@ td{
 }
 </style>
 
-Test new style...
-
-Markdown no table:
-
-![alt-text-1](https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w) ![alt-text-2](https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w title="title1")
-![alt-text-1](https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w) ![alt-text-2](https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w title="title1")
-
-Markdown with table:
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w)  |  ![](https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w)
-
-Test HTML table:
-
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td><a href="https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w"><img src="https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w"  alt="1" width = 360px height = 640px ></a></td>
-
-    <td><img src="https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w" alt="2" width = 360px height = 640px></td>
-   </tr> 
-   <tr>
-      <td><img src="https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w" alt="3" width = 360px height = 640px></td>
-
-      <td><img src="https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w" align="right" alt="4" width = 360px height = 640px>
-  </td>
-  </tr>
+    <td><a href=""><img src="assets/img/outreach1.png" alt="1" width = 360px height = 360px ></a></td>
+    <td><a href=""><img src="assets/img/outreach2.png" alt="1" width = 360px height = 360px ></a></td>
+    <td><a href=""><img src="assets/img/outreach3.png" alt="1" width = 360px height = 360px ></a></td>
+   </tr>
+  <tr>
+    <td><a href=""><img src="assets/img/outreach4.png" alt="1" width = 360px height = 360px ></a></td>
+    <td><a href=""><img src="assets/img/outreach5.png" alt="1" width = 360px height = 360px ></a></td>
+    <td><a href=""><img src="assets/img/outreach6.png" alt="1" width = 360px height = 360px ></a></td>
+   </tr>
+  <tr>
+    <td><a href=""><img src="assets/img/outreach7.png" alt="1" width = 360px height = 360px ></a></td>
+    <td><a href=""><img src="assets/img/outreach8.png" alt="1" width = 360px height = 360px ></a></td>
+    <td><a href=""><img src="assets/img/outreach9.png" alt="1" width = 360px height = 360px ></a></td>
+   </tr>
 </table>
