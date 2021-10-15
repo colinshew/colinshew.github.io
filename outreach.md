@@ -7,10 +7,12 @@ subtitle: Bringing science outside the lab!
 <html>
 
 <style>
-table {border: none;}
+table {
+    border-collapse: collapse;
+}
 </style>
 
-Testing style...
+Testing border collapse...
 
 Test HTML table:
 
