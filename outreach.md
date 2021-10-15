@@ -16,8 +16,8 @@ Testing border none...
 
 Markdown no table:
 
-![alt-text-1](https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w "title-1") ![alt-text-2](https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w "title-2")
-![alt-text-1](https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w "title-1") ![alt-text-2](https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w "title-2")
+![alt-text-1](https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w) ![alt-text-2](https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w)
+![alt-text-1](https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w) ![alt-text-2](https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w)
 
 Markdown with table:
 
