@@ -1,11 +1,16 @@
 ---
 layout: page
-title: Science outreach
+title: Outreach
 subtitle: Bringing science outside the lab!
-cover-img: ["assets/img/avatar-icon.png", "assets/img/hello_world.jpeg"]
 ---
 
-Testing cover images...
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+Testing style...
 
 Test HTML table:
 
