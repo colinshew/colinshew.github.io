@@ -7,12 +7,23 @@ subtitle: Bringing science outside the lab!
 <html>
 
 <style>
-table {
-    border-collapse: collapse;
+td, th {
+   border: none!important;
 }
 </style>
 
-Testing border collapse...
+Testing border none...
+
+Markdown no table:
+
+![alt-text-1](https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w "title-1") ![alt-text-2](https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w "title-2")
+![alt-text-1](https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w "title-1") ![alt-text-2](https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w "title-2")
+
+Markdown with table:
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w)  |  ![](https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w)
 
 Test HTML table:
 
