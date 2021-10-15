@@ -5,17 +5,16 @@ subtitle: Bringing science outside the lab!
 ---
 
 <style>
-table, th, td {
-    border-collapse: collapse;
+td, th {
+   border: none!important;
 }
 td{
-    border:1px solid black;
     border-top: none;
     border-bottom: none;
 }
 </style>
 
-Test new style
+Test new style...
 
 Markdown no table:
 
