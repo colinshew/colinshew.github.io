@@ -14,10 +14,10 @@ author: Colin Shew
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Research: "_pages/research"
-  Publications: "_pages/publications"
-  Outreach: "_pages/outreach"
-  CV: "_pages/cv"
+  Research: "research"
+  Publications: "publications"
+  Outreach: "outreach"
+  CV: "cv"
 
 # --- Logo --- #
 
