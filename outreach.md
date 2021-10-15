@@ -1,12 +1,10 @@
 ---
 layout: page
 title: Science outreach
-subtitle: Bringing science out of the lab!
+subtitle: Bringing science outside the lab!
 ---
 
-![](https://images.squarespace-cdn.com/content/v1/56286a50e4b0bace71876bdf/1559759207321-016DZ9TYPRMK52YPRISU/Image+from+iOS+%2821%29.jpg?format=750w)
-
-Test HTML table
+Test HTML table:
 
 <table cellspacing="0" cellpadding="0">
   <tr>
