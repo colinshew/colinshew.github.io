@@ -4,6 +4,15 @@ title: Science outreach
 subtitle: Bringing science outside the lab!
 ---
 
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+table {
+    border-collapse: collapse;
+}
+</style>")
+
+Testing CSS style...
+
 Test HTML table:
 
 <table border="0" cellspacing="0" cellpadding="0">
