@@ -4,6 +4,8 @@ title: Science outreach
 subtitle: Bringing science outside the lab!
 ---
 
+![](https://github.com/colinshew/colinshew.github.io/blob/master/assets/img/avatar-icon.png?raw=true)
+
 Test HTML table:
 
 <table cellspacing="0" cellpadding="0">
