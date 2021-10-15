@@ -20,18 +20,18 @@ td{
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td><a href=""><img src="assets/img/outreach1.png" alt="1" width = 360px height = 360px ></a></td>
-    <td><a href=""><img src="assets/img/outreach2.png" alt="1" width = 360px height = 360px ></a></td>
-    <td><a href=""><img src="assets/img/outreach3.png" alt="1" width = 360px height = 360px ></a></td>
+    <td><a href=""><img src="https://github.com/colinshew/colinshew.github.io/blob/master/assets/img/outreach1.png?raw=true" alt="1" width = 360px height = 360px ></a></td>
+    <td><a href=""><img src="https://github.com/colinshew/colinshew.github.io/blob/master/assets/img/outreach2.png?raw=true" alt="1" width = 360px height = 360px ></a></td>
+    <td><a href=""><img src="https://github.com/colinshew/colinshew.github.io/blob/master/assets/img/outreach3.png?raw=true" alt="1" width = 360px height = 360px ></a></td>
    </tr>
   <tr>
-    <td><a href=""><img src="assets/img/outreach4.png" alt="1" width = 360px height = 360px ></a></td>
-    <td><a href=""><img src="assets/img/outreach5.png" alt="1" width = 360px height = 360px ></a></td>
-    <td><a href=""><img src="assets/img/outreach6.png" alt="1" width = 360px height = 360px ></a></td>
+    <td><a href=""><img src="https://github.com/colinshew/colinshew.github.io/blob/master/assets/img/outreach4.png?raw=true" alt="1" width = 360px height = 360px ></a></td>
+    <td><a href=""><img src="https://github.com/colinshew/colinshew.github.io/blob/master/assets/img/outreach5.png?raw=true" alt="1" width = 360px height = 360px ></a></td>
+    <td><a href=""><img src="https://github.com/colinshew/colinshew.github.io/blob/master/assets/img/outreach6.png?raw=true" alt="1" width = 360px height = 360px ></a></td>
    </tr>
   <tr>
-    <td><a href=""><img src="assets/img/outreach7.png" alt="1" width = 360px height = 360px ></a></td>
-    <td><a href=""><img src="assets/img/outreach8.png" alt="1" width = 360px height = 360px ></a></td>
-    <td><a href=""><img src="assets/img/outreach9.png" alt="1" width = 360px height = 360px ></a></td>
+    <td><a href=""><img src="https://github.com/colinshew/colinshew.github.io/blob/master/assets/img/outreach7.png?raw=true" alt="1" width = 360px height = 360px ></a></td>
+    <td><a href=""><img src="https://github.com/colinshew/colinshew.github.io/blob/master/assets/img/outreach8.png?raw=true" alt="1" width = 360px height = 360px ></a></td>
+    <td><a href=""><img src="https://github.com/colinshew/colinshew.github.io/blob/master/assets/img/outreach9.png?raw=true" alt="1" width = 360px height = 360px ></a></td>
    </tr>
 </table>
