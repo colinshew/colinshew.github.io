@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+subtitle: Lorem ipsum
 ---
 
 A list of my publications can also be found on my [Google Scholar profile](https://scholar.google.com/citations?user=A_zf528AAAAJ&hl=en&oi=ao).
