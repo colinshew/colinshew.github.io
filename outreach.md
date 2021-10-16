@@ -4,7 +4,7 @@ title: Outreach
 subtitle: Bringing science outside the lab!
 ---
 
-What good is science if only scientists understand it? I believe in engaging the general public in scientific conversation and increasing the visibility of science careers, especially in disadvantaged communities. I have organized several hands-on workshops at elementary and high schools across the Sacramento area to discuss DNA, heredity, biotechnology, bioethics, and STEM careers. Check out the [Dennis Lab blog](https://www.dennislab.org/outreach) for posts describing some of these events!
+What good is science if only scientists understand it? I believe in engaging the public in scientific conversations and increasing the visibility of science careers, especially in disadvantaged communities. I have organized several hands-on workshops at elementary and high schools in the Sacramento area to discuss DNA, heredity, biotechnology, bioethics, and STEM careers. Check out the [Dennis Lab blog](https://www.dennislab.org/outreach) for posts describing some of these events!
 
 Any educators interested in bringing these topics to their classrooms are welcome to <a href = "mailto: cshew@ucdavis.edu">email me</a> for more information.
 
